@@ -109,6 +109,17 @@
             //}
             #endregion
 
+            #region Question9
+            /*
+            Given int pages = 464;, convert it into a string using ToString()
+            and print its type using GetType() to prove it's now a string.
+            */
+            //int pages = 464;
+            //string StringPages=pages.ToString();
+            //Console.WriteLine(StringPages);
+            //Console.WriteLine(StringPages.GetType());//system.string
+            #endregion
+
 
 
 
