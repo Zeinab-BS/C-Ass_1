@@ -71,6 +71,15 @@
 
             #endregion
 
+            #region Question6
+            /*
+            Declare a double price = 49.99; then convert it into an int using a cast.
+            */
+            //double price = 49.99;
+            //int IntPrice = (int)price;// double ->int (explict casting) / (unsafe =loss data)
+            //Console.WriteLine(IntPrice);
+            #endregion
+
 
 
 
