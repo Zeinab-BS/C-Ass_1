@@ -8,11 +8,11 @@ namespace C_Ass_1
     {
         public string Title;
         public int Pages;
-
-        public override string ToString()
-        {
-            return $"Title: {Title}\nPages{Pages}";
-        }
+        //this is for Question1
+        //public override string ToString()
+        //{
+        //    return $"Title: {Title}\nPages{Pages}";
+        //} 
     }
     
 

@@ -17,6 +17,20 @@
             //Console.WriteLine(obj.ToString());
             #endregion
 
+            #region Question2
+             /*
+             Using the Book class above, print the result of calling ToString(), 
+             Equals() (compare book with itself),
+             GetHashCode(), and GetType() on book
+             */
+
+            //Book book = new Book();
+            //Console.WriteLine(book.ToString());//C_Ass_1.Book
+            //Console.WriteLine(book.Equals(book));//true
+            //Console.WriteLine(book.GetHashCode());//address
+            //Console.WriteLine(book.GetType());//C_Ass_1.Book
+            #endregion
+
 
 
 
