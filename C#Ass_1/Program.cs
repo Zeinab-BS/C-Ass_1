@@ -34,12 +34,32 @@
 
             #region Question3
 
-             /*
-             Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
-             int pages = "464"; 
-             */
-             // this is a compile time error 
-             // correction :int pages = 464;
+            /*
+            Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
+            int pages = "464"; 
+            */
+            // this is a compile time error 
+            // correction :int pages = 464;
+
+            #endregion
+
+            #region Question4
+            //int y = 0;
+            //try
+            //{
+            //    int x = 10 /y;
+            //}
+
+            //catch 
+            //{
+            //    Console.WriteLine("Cannot divide by zero");
+            //}
+
+            //finally
+            //{
+            //    Console.WriteLine("Done");
+
+            //}
 
             #endregion
 
