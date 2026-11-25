@@ -1,4 +1,6 @@
-﻿namespace C_Ass_1
+﻿using System.Drawing;
+
+namespace C_Ass_1
 {
     internal class Program
     {
@@ -150,6 +152,15 @@
 
             #endregion
 
+
+            #region Question12
+
+            /*Declare a string? reviewer = null;. Print whether it is null.*/
+
+            //string?reviewer=null;
+            //Console.WriteLine(reviewer is null);
+
+            #endregion
 
 
 
