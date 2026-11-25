@@ -187,7 +187,24 @@ namespace C_Ass_1
 
             //book.Title ??= "Untitled";
             //Console.WriteLine(book.Title);
-           
+
+
+
+
+            #endregion
+
+            #region Question15
+
+            /*
+             
+            Given string? name = "Ahmed"; (you are sure it's not null here), 
+            assign it to a non-nullable string confirmedName using the ! operator.
+            */
+
+            //string? name = "Ahmed";
+            
+            //string confirmedName = name!;
+            //Console.WriteLine(confirmedName);
 
 
 
